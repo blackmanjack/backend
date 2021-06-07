@@ -1,2 +1,2 @@
 # backend
-Submisi kelas backend dicoding
+Submisi dicoding kelas backend pemula
